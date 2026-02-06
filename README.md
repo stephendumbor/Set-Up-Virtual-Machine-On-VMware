@@ -34,11 +34,17 @@ VM Created, Right-click on VM. Navigate to VM settings: <br/>
 Navigate to CD/DVD(SATA), and Sellect the downloaded ISO image we initially said "We'll install later" now: <br/>
 <img src="https://imgur.com/kMaWw4t" height="80%" width="80%" alt="Browse ISO disc downloaded"/>
 <br />
-<br />Start VM Now: <br/>
+<br />
+Start VM Now: <br/>
 <img src="https://imgur.com/5LdV0Zo" height="80%" width="80%" alt="Start VM"/>
 <br />
 <br />
 Proceed with installation of Windows Server 2025 version (Enter Boot normal): <br/>
-<img src="https://imgur.com/37cLQr3" height="80%" width="80%" alt="Boot Normal"/>
+<img src="https://imgur.com/P9CpbD9" height="80%" width="80%" alt="Boot Normal"/>
+<br />
+<br />
+
+SEE: <br/>
+<img src="https://imgur.com/P9CpbD9" height="80%" width="80%" alt="Boot Normal"/>
 <br />
 <br />
