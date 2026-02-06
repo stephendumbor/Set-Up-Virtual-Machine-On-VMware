@@ -23,11 +23,22 @@ Allocate Disk space for Virtual machine: <br/>
 <img src="https://imgur.com/HEWt3eQ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sellect I will install the operating system letter: <br/>
-<img src="[https://i.imgur.com/nCIbXbg.png](https://imgur.com/AAVC8oG)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Preview VM details: <br/>
+<img src="https://imgur.com/dhPXKqT" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sellect I will install the operating system letter: <br/>
-<img src="[https://i.imgur.com/nCIbXbg.png](https://imgur.com/AAVC8oG)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+VM Created, Right-click on VM. Navigate to VM settings: <br/>
+<img src="https://imgur.com/ssjEnIi" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Navigate to CD/DVD(SATA), and Sellect the downloaded ISO image we initially said "We'll install later" now: <br/>
+<img src="https://imgur.com/kMaWw4t" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />Start VM Now: <br/>
+<img src="https://imgur.com/5LdV0Zo" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Proceed with installation of Windows Server 2025 version (Enter Boot normal): <br/>
+<img src="https://imgur.com/37cLQr3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
