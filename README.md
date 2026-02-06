@@ -1,3 +1,5 @@
+# SET UP VMware WORKSTATION MACHINE
+
 <p align="center">
 Launch the VMware software and Sellect Create Virtual machine: <br/>
 <img src="https://imgur.com/OGLubpf" height="80%" width="80%" alt="VMware software lunch"/>
@@ -16,15 +18,15 @@ Check Microsoft widows and sellect the windows version (In our case Windows Serv
 <br />
 <br />
 Name Virtual machine and Choose file location: <br/>
-<img src="https://imgur.com/EJuuHJ5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EJuuHJ5" height="80%" width="80%" alt="Name machine"/>
 <br />
 <br />
 Allocate Disk space for Virtual machine: <br/>
-<img src="https://imgur.com/HEWt3eQ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/HEWt3eQ" height="80%" width="80%" alt="Allocate storage space"/>
 <br />
 <br />
 Preview VM details: <br/>
-<img src="https://imgur.com/dhPXKqT" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/dhPXKqT" height="80%" width="80%" alt="Preview"/>
 <br />
 <br />
 VM Created, Right-click on VM. Navigate to VM settings: <br/>
@@ -44,7 +46,6 @@ Proceed with installation of Windows Server 2025 version (Enter Boot normal): <b
 <br />
 <br />
 
-SEE: <br/>
-<img src="https://imgur.com/P9CpbD9" height="80%" width="80%" alt="Boot Normal"/>
+# SEE: [Windows Server Installation](https://github.com/stephendumbor/Windows-Server-Installation) for Installation Guide <br/>
 <br />
 <br />
