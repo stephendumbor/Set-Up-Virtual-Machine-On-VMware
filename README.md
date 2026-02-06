@@ -32,7 +32,7 @@ VM Created, Right-click on VM. Navigate to VM settings: <br/>
 <br />
 <br />
 Navigate to CD/DVD(SATA), and Sellect the downloaded ISO image we initially said "We'll install later" now: <br/>
-<img src="https://imgur.com/kMaWw4t" height="80%" width="80%" alt="Browse ISO disk downloaded"/>
+<img src="https://imgur.com/kMaWw4t" height="80%" width="80%" alt="Browse ISO disc downloaded"/>
 <br />
 <br />Start VM Now: <br/>
 <img src="https://imgur.com/5LdV0Zo" height="80%" width="80%" alt="Start VM"/>
